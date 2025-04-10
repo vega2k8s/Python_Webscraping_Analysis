@@ -1,5 +1,5 @@
 # Database 생성
-mysql -u root –p
+mysql -u root -p
 show databases;
 use mysql;
 create database python_db;
